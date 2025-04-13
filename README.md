@@ -1,21 +1,29 @@
 # C Codes Basic Demonstration
 
-This repository contains a simple basic demonstration of various C code examples covering input/output operations, arithmetic, control structures, loops, and functions. These examples are designed to help beginners understand the fundamentals of C programming.
+[![GitHub stars](https://img.shields.io/github/stars/XynaxDev/Basics-C?style=social)](https://github.com/XynaxDev/Basics-C/stargazers)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Language](https://img.shields.io/badge/language-C-blue.svg)](https://www.gnu.org/software/gcc/)
+[![GitHub issues](https://img.shields.io/github/issues/XynaxDev/Basics-C)](https://github.com/XynaxDev/Basics-C/issues)
+
+This repository provides a collection of simple C code examples demonstrating fundamental programming concepts, including input/output operations, arithmetic, control structures, loops, and functions. Designed for beginners, these examples aim to build a strong foundation in C programming.
 
 ## Table of Contents
-- [Functions](#functions)
-- [Loops](#loops)
-  - [For Loop](#for-loop)
-  - [While Loop](#while-loop)
-  - [Do-While Loop](#do-while-loop)
-- [Conditional Statements](#conditional-statements)
-  - [If-Else](#if-else)
-  - [Switch-Case](#switch-case)
-  - [Ternary Operator](#ternary-operator)
-- [Input/Output](#inputoutput)
-- [Arithmetic Operations](#arithmetic-operations)
-- [Compilation](#compilation)
-- [Execution](#execution)
+- [C Codes Basic Demonstration](#c-codes-basic-demonstration)
+  - [Table of Contents](#table-of-contents)
+  - [Functions](#functions)
+  - [Loops](#loops)
+    - [For Loop](#for-loop)
+    - [While Loop](#while-loop)
+    - [Do-While Loop](#do-while-loop)
+  - [Conditional Statements](#conditional-statements)
+    - [If-Else](#if-else)
+    - [Switch-Case](#switch-case)
+    - [Ternary Operator](#ternary-operator)
+  - [Input/Output](#inputoutput)
+  - [Arithmetic Operations](#arithmetic-operations)
+  - [Compilation](#compilation)
+  - [Execution](#execution)
+  - [Acknowledgments](#acknowledgments)
 ---
 
 ## Functions
@@ -208,6 +216,8 @@ After successful compilation, run the executable from your terminal:
 ```bash
 ./basics
 ```
-<p align = "center" > Thank you for exploring this basic demonstration of C codes. 
+
+## Acknowledgments
+<p align = "left"> Thank you for exploring this basic demonstration of C codes. 
 We hope this repository serves as a useful resource in your journey to learning C programming.
 Happy Coding!😊 </p>
